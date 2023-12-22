@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\bin\Debug\net8.0\Projeto-Musical.exe
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\bin\Debug\net8.0\Projeto-Musical.deps.json
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\bin\Debug\net8.0\Projeto-Musical.runtimeconfig.json
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\bin\Debug\net8.0\Projeto-Musical.dll
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\bin\Debug\net8.0\Projeto-Musical.pdb
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.dll
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\refint\Projeto-Musical.dll
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.pdb
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\Projeto-Musical.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Workspace\Projeto-Musical\obj\Debug\net8.0\ref\Projeto-Musical.dll
